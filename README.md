@@ -1,8 +1,8 @@
 # Debian Xfce MPV Kiosk Media Player
 
-This project was born out of having a parent with dementia in professional memory care.
+This project was born out of having a parent with dementia in professional memory care. It could be utilized by any person unable to utilize a television remote.
 
-Steps are documented to recreate a low cost, low power media player that requires no physical interaction after being powered on.
+Steps are documented to recreate a low(ish) cost, low power media player that requires no physical interaction after being powered on.
 
 
 ## Purpose
