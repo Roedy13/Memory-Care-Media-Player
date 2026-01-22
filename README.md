@@ -14,7 +14,6 @@ The system:
 - Outputs audio over HDMI
 - Requires no keyboard or mouse interaction
 - Survives HDMI hotplug (TV off/on)
-- Suppresses OS dialogs and notifications
 - Keeps MPV **always in the foreground**
 
 Designed for **care / memory facilities**, or other unattended installs.
@@ -242,8 +241,9 @@ Use at your own risk
 
 There is no plan to actively maintain this document.  Some enterprising dev may want to think about
 
- - Connected cloud drive where a loved one can update the media files remotely
+ - Connected cloud drive where a caregiver can manage media files remotely
  - Hardened security
  - `.deb` installer package
  - Implementation without a desktop environment; this could be run on a bare xorg-server install
  - Auto On feature.  This would likely be a bios setting to turn the system on whenever power is applied
+ - Porting to RPI Zero 2 for lowest cost/power usage
